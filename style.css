@@ -1,5 +1,23 @@
 
 
 body{
-    background-color: aquamarine;
+    background-color: #D4BEE4;
+}
+
+
+.main-card{
+   width: 100%;
+   margin-top: 30px;
+   border: 1px solid #3B1E54;
+   border-radius: 10px;
+   background-color: #3B1E54;
+   filter: contrast(100%) hue-rotate(0deg) blur(0px) grayscale(0%) drop-shadow(-5px 13px 0px rgba(120, 120, 120, 1));
+}
+
+.main-card>h1{
+    font-family: "Oswald", sans-serif;
+    font-weight: 500;
+    text-align: center;
+    color: #EEEEEE;
+    
 }
