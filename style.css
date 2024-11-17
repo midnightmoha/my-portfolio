@@ -78,3 +78,15 @@ p{
 .album h3{
     width: 90%;
 }
+
+@media (max-width:550px) {
+
+    img{
+        max-width: 85%;
+        height: auto;
+        width: auto\9;
+        width: 400px;
+        object-fit: cover;
+    }
+    
+}
