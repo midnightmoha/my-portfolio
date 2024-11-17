@@ -13,6 +13,11 @@ img{
 
 hr{
     width: 90%;
+    border: none;
+    background-color: #ccc;
+    color: rgba(120, 120, 120, 1);
+    height: 1px;
+
 }
 
 h2{
