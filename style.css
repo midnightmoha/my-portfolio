@@ -31,6 +31,7 @@ p{
     font-family: "Oswald", sans-serif;
     font-weight: 350;
     color:#1A1A1D;
+    overflow: hidden;
 
 }
 .main-card{
@@ -64,16 +65,16 @@ p{
     filter: contrast(100%) hue-rotate(0deg) blur(0px) grayscale(0%) drop-shadow(-5px 13px 0px rgba(120, 120, 120, 1));
 }
 
-.emotion{
+.album{
    display: inline-block;   
    width: 100%;
    padding:20px
 }
 
-.emotion h2{
+.album h2{
     width: 40%;
 }
 
-.emotion h3{
+.album h3{
     width: 50%;
 }
