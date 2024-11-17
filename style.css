@@ -11,6 +11,10 @@ img{
     border-radius: 3%;
 }
 
+hr{
+    width: 90%;
+}
+
 h2{
     margin: 0%;
     font-family: "Oswald", sans-serif;
@@ -88,6 +92,7 @@ p{
         width: auto\9;
         width: 400px;
         object-fit: cover;
+        margin: 10px;
     }
     
 }
