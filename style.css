@@ -4,11 +4,17 @@ body{
     background-color: #D4BEE4;
 }
 
+#grad1 {
+    height: 100%;
+    background-color: red; 
+    background-image: linear-gradient(red, yellow);
+  }
+
 img{
     float: left;
     width: 200px;
     margin-right: 20px;
-    border-radius: 3%;
+    border-radius: 10px;
 }
 
 hr{
@@ -87,6 +93,14 @@ p{
 
 .album h3{
     width: 90%;
+}
+
+.otherpage{
+    background-color: #D4BEE4;
+}
+
+.test{
+    font-size: large;
 }
 
 @media (max-width:550px) {
